@@ -5,7 +5,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- 🌱 I’m currently learning FrontEnd .
+- 🌱 I’m currently learning FrontEnd as well as BackEnd .
 - 🔭 I’m currently working on React Js .
 - 📫 How to reach me: https://www.linkedin.com/in/aakash-subedi-a9986625a/
 - 😄 Pronouns: he/him
