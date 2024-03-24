@@ -6,7 +6,7 @@
 
 <br><br>
 - 🌱 I’m currently learning FrontEnd as well as BackEnd .
-- 🔭 I’m currently working on React Js .
+- 🔭 I’m currently working on React Js and Express Js .
 - 📫 How to reach me: https://www.linkedin.com/in/aakash-subedi-a9986625a/
 - 😄 Pronouns: he/him
 <br>
