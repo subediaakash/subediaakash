@@ -24,7 +24,7 @@
   </a> 
   &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="typescript" src="https://w7.pngwing.com/pngs/595/864/png-transparent-typescript-original-logo-icon-thumbnail.png">
+    <img alt="typescript" src="https://w7.pngwing.com/pngs/595/864/png-transparent-typescript-original-logo-icon-thumbnail.png" width = 50px>
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
