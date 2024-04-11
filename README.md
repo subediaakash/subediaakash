@@ -15,7 +15,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" height=15px width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" height=35px width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -24,7 +24,7 @@
   </a> 
   &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="typescript" src="https://w7.pngwing.com/pngs/595/864/png-transparent-typescript-original-logo-icon-thumbnail.png" width = 50px>
+    <img alt="typescript" src="https://w7.pngwing.com/pngs/595/864/png-transparent-typescript-original-logo-icon-thumbnail.png" height=25px width = 50px>
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
