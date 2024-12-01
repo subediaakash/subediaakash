@@ -47,28 +47,6 @@ I'm a passionate developer currently focusing on web development and blockchain 
 
 ### 🏆 Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="200" alt="Hotel Management">
-        <br>
-        <strong>Hotel Management System</strong>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="200" alt="Hospital Management">
-        <br>
-        <strong>Hospital Management System</strong>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="200" alt="Expense Splitter">
-        <br>
-        <strong>Expense Splitter App</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ### 📊 GitHub Stats
