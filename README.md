@@ -45,9 +45,7 @@ I'm a passionate **Web Developer** and **Blockchain Enthusiast** who loves build
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subediaakash&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🐍 Contribution Snake Animation
 
-![snake gif](https://github.com/subediaakash/subediaakash/blob/output/github-contribution-grid-snake.gif)
 
 ## 🤝 Let's Connect!
 
