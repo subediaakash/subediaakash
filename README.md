@@ -19,12 +19,18 @@ I'm a passionate **Web Developer** and **Blockchain Enthusiast** who loves build
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### Databases & ORMs
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white)
+
+### Message Queues & Pub/Sub
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Google Pub/Sub](https://img.shields.io/badge/Google%20Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,11 +45,9 @@ I'm a passionate **Web Developer** and **Blockchain Enthusiast** who loves build
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subediaakash&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🌈 Philosophy
+## 🐍 Contribution Snake Animation
 
-![Puzzle Solving GIF](https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif)
-
-> **"Coding is like solving puzzles - challenging, fun, and incredibly rewarding!"**
+![snake gif](https://github.com/subediaakash/subediaakash/blob/output/github-contribution-grid-snake.gif)
 
 ## 🤝 Let's Connect!
 
